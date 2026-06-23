@@ -30,3 +30,30 @@ Understanding React props
 Using callback functions between components
 Managing state with hooks
 Building reusable TypeScript components
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/muhammedalimi/React-Callback-Color-Changer.git
+cd React-Callback-Color-Changer
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
